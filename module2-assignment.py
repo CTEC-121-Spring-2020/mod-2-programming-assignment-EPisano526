@@ -1,8 +1,8 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
-<assignment/lab description
+Esther Pisano   
+Module 2 Programming Assignment
+Applying what we have learned so far. 
 """
 
 """ IPO template
@@ -11,7 +11,9 @@ Process: description of what function does
 Output: return value and description
 """
 
+
 def main():
     # code here
 
-main()    
+
+main()
